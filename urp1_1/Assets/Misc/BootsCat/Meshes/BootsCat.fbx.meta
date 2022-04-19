@@ -1,0 +1,668 @@
+fileFormatVersion: 2
+guid: 990f0b697c1840e4a84c3505693e5fab
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 6419959543383965301
+    second: BootsCat|Exit
+  - first:
+      74: -6257016102826281224
+    second: BootsCat|Hungry
+  - first:
+      74: -5755211749752797480
+    second: BootsCat|Idle
+  - first:
+      74: -8475591219466487496
+    second: BootsCat|Relax01
+  - first:
+      74: 95912184221527859
+    second: BootsCat|Relax02
+  - first:
+      74: -8420909316586536435
+    second: BootsCat|Run
+  - first:
+      74: -3671011562338342758
+    second: BootsCat|Spawn
+  - first:
+      74: 3885409556733809469
+    second: BootsCat|Win
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BootsCat|Exit
+      takeName: BootsCat|Exit
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Hungry
+      takeName: BootsCat|Hungry
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Idle
+      takeName: BootsCat|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Relax01
+      takeName: BootsCat|Relax01
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Relax02
+      takeName: BootsCat|Relax02
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 146
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Run
+      takeName: BootsCat|Run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Spawn
+      takeName: BootsCat|Spawn
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: BootsCat|Win
+      takeName: BootsCat|Win
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: BootsCat(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BootsCat
+      parentName: BootsCat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.49999994, z: -0.5, w: -0.5}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: BootsCat
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.000000059604645, y: -0, z: -0.000000059604645, w: -1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01
+      parentName: Root
+      position: {x: 0.000070002076, y: -0.00012808436, z: 0.001847054}
+      rotation: {x: -0, y: -2.842171e-14, z: -0.00000047683716, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999998}
+    - name: Bip01-Pelvis
+      parentName: Bip01
+      position: {x: 2.370163e-10, y: 0.00022449288, z: -0.0000000020954762}
+      rotation: {x: 0.5, y: -0.5000002, z: -0.49999934, w: -0.5000006}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: Bip01-Spine
+      parentName: Bip01-Pelvis
+      position: {x: -0.0007679956, y: 0.0000023305822, z: -0.00004264531}
+      rotation: {x: 0.000002026558, y: -0, z: 0.00039754808, w: -1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+    - name: Bip01-Spine1
+      parentName: Bip01-Spine
+      position: {x: -0.0013368565, y: -0.0000010634737, z: 0.000000017837156}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1.0000001}
+    - name: Bip01-Neck
+      parentName: Bip01-Spine1
+      position: {x: -0.0013032457, y: -0.00027703532, z: -2.1420418e-10}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Bip01-L-Clavicle
+      parentName: Bip01-Neck
+      position: {x: 0.00033003627, y: -0.00008212562, z: 0.00039897943}
+      rotation: {x: 0.58072907, y: 0.018167702, z: -0.8138862, w: -0.0036049897}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.9999914}
+    - name: Bip01-L-UpperArm
+      parentName: Bip01-L-Clavicle
+      position: {x: -0.000657851, y: 1.3504177e-10, z: 3.9442966e-10}
+      rotation: {x: 0.019647857, y: 0.13298708, z: 0.039794825, w: 0.9901237}
+      scale: {x: 1, y: 0.9999984, z: 1.0000018}
+    - name: Bip01-L-Forearm
+      parentName: Bip01-L-UpperArm
+      position: {x: -0.0009551361, y: -5.2154064e-10, z: -0.0000000027194618}
+      rotation: {x: -0.0031936988, y: 0.020006884, z: 0.029525872, w: 0.99935865}
+      scale: {x: 0.99999964, y: 1.0000008, z: 0.99999994}
+    - name: Bip01-L-Hand
+      parentName: Bip01-L-Forearm
+      position: {x: -0.00076495885, y: 7.4505804e-11, z: -0.000000004665926}
+      rotation: {x: 0.72451013, y: 0.015342351, z: -0.014589184, w: -0.688939}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: Bip01-L-Finger0
+      parentName: Bip01-L-Hand
+      position: {x: -0.00017973312, y: 0.00005616607, z: -0.00024985473}
+      rotation: {x: -0.4388649, y: 0.36208844, z: 0.27175945, w: -0.77616775}
+      scale: {x: 1.000004, y: 1.0000007, z: 0.9999969}
+    - name: Bip01-L-Finger0_end
+      parentName: Bip01-L-Finger0
+      position: {x: -0, y: 0.0011999998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-L-Finger1
+      parentName: Bip01-L-Hand
+      position: {x: -0.0004435464, y: -0.00002019342, z: 0.00000027507542}
+      rotation: {x: 0.0020505781, y: 0.012784812, z: -0.18651208, w: 0.9823674}
+      scale: {x: 1.0000021, y: 0.99999857, z: 1.0000001}
+    - name: Bip01-L-Finger1_end
+      parentName: Bip01-L-Finger1
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-R-Clavicle
+      parentName: Bip01-Neck
+      position: {x: 0.0003301984, y: -0.000082208215, z: -0.00039902478}
+      rotation: {x: -0.5889678, y: -0.024924243, z: -0.807625, w: -0.015417564}
+      scale: {x: 1.0000005, y: 0.9999999, z: 0.99991214}
+    - name: Bip01-R-UpperArm
+      parentName: Bip01-R-Clavicle
+      position: {x: -0.00065785146, y: -4.656613e-10, z: -0.0000000014528632}
+      rotation: {x: 0.024617003, y: 0.13722154, z: -0.011723059, w: -0.99016505}
+      scale: {x: 1.0000029, y: 0.99998367, z: 1.0000138}
+    - name: Bip01-R-Forearm
+      parentName: Bip01-R-UpperArm
+      position: {x: -0.0009551464, y: -0.0000000052712856, z: 0.000000028461217}
+      rotation: {x: -0.003081257, y: 0.019329613, z: -0.02754064, w: -0.9994291}
+      scale: {x: 1.0000006, y: 0.99999934, z: 1}
+    - name: Bip01-R-Hand
+      parentName: Bip01-R-Forearm
+      position: {x: -0.0007649679, y: 0.0000000014528632, z: 0.0000000461936}
+      rotation: {x: 0.7245079, y: 0.015342357, z: 0.014589855, w: 0.6889413}
+      scale: {x: 0.9999975, y: 1.0000101, z: 0.9999924}
+    - name: Bip01-R-Finger0
+      parentName: Bip01-R-Hand
+      position: {x: -0.00017973469, y: 0.000056175963, z: 0.00024985403}
+      rotation: {x: 0.4388353, y: -0.36210266, z: 0.2717435, w: -0.7761834}
+      scale: {x: 1.0000143, y: 1.0000046, z: 0.9999825}
+    - name: Bip01-R-Finger0_end
+      parentName: Bip01-R-Finger0
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-R-Finger1
+      parentName: Bip01-R-Hand
+      position: {x: -0.00044355108, y: -0.000020170659, z: -0.00000027734785}
+      rotation: {x: -0.0020526345, y: -0.012776296, z: -0.18650053, w: 0.98236966}
+      scale: {x: 1.0000134, y: 0.99998724, z: 1.0000001}
+    - name: Bip01-R-Finger1_end
+      parentName: Bip01-R-Finger1
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-Head
+      parentName: Bip01-Neck
+      position: {x: -0.000022477238, y: -0.0000024528485, z: 3.259629e-11}
+      rotation: {x: -5.2932586e-10, y: 0.00000016261033, z: -0.021416236, w: 0.9997707}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999999}
+    - name: BN_Eye_R_02
+      parentName: Bip01-Head
+      position: {x: -0.001142869, y: 0.000852836, z: -0.0007104989}
+      rotation: {x: 0.501076, y: -0.86540335, z: -0.000000712764, w: -0.00000077543444}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+    - name: BN_Eye_R_02_end
+      parentName: BN_Eye_R_02
+      position: {x: -0, y: 0.0011999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Eye_L_01
+      parentName: Bip01-Head
+      position: {x: -0.0011498542, y: 0.00084865437, z: 0.00071054226}
+      rotation: {x: 0.0000005871378, y: 0.00000006711674, z: -0.50406533, w: 0.8636656}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: BN_Eye_L_01_end
+      parentName: BN_Eye_L_01
+      position: {x: -0, y: 0.0011999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Eye_L_02
+      parentName: Bip01-Head
+      position: {x: -0.0011428695, y: 0.000852834, z: 0.0007105419}
+      rotation: {x: 0.50107497, y: -0.8654039, z: -0.00000060068044, w: -0.00000042016512}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: BN_Eye_L_02_end
+      parentName: BN_Eye_L_02
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Cap
+      parentName: Bip01-Head
+      position: {x: -0.0019742434, y: 0.0001336396, z: 0.0000000010185612}
+      rotation: {x: 0.010410773, y: -0.47726583, z: 0.019166842, w: 0.87848824}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000007}
+    - name: BN_Cap_L
+      parentName: BN_Cap
+      position: {x: 0.0005027512, y: 0.00008776047, z: 0.0013330549}
+      rotation: {x: 0.46496737, y: -0.49129105, z: -0.6460841, w: -0.353573}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999998}
+    - name: BN_Cap_L_end
+      parentName: BN_Cap_L
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Cap_01
+      parentName: BN_Cap
+      position: {x: -0.00062324107, y: 0.00046767882, z: 0.0013713529}
+      rotation: {x: 0.43091905, y: -0.323074, z: -0.3587796, w: -0.7623708}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999999}
+    - name: BN_Cap_02
+      parentName: BN_Cap_01
+      position: {x: -0.0017766088, y: -1.9790604e-10, z: -0.0000000025099143}
+      rotation: {x: 0.023844112, y: 0.450544, z: 0.035159785, w: -0.8917429}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999994}
+    - name: BN_Cap_03
+      parentName: BN_Cap_02
+      position: {x: -0.0023206568, y: -1.4901161e-10, z: -0.0000000015739351}
+      rotation: {x: 0.008190431, y: -0.5551257, z: 0.0038859542, w: 0.83171713}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.9999998}
+    - name: BN_Cap_03_end
+      parentName: BN_Cap_03
+      position: {x: -0, y: 0.0012000002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Cap_R
+      parentName: BN_Cap
+      position: {x: 0.00069761625, y: 0.000011466051, z: -0.0013807967}
+      rotation: {x: 0.7911449, y: -0.20485605, z: 0.2532549, w: 0.51767325}
+      scale: {x: 1.0000008, y: 1, z: 1.0000007}
+    - name: BN_Cap_R_end
+      parentName: BN_Cap_R
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Ear_R
+      parentName: Bip01-Head
+      position: {x: -0.0019476387, y: 0.00019435983, z: -0.0013528004}
+      rotation: {x: -0.78127813, y: -0.18594322, z: -0.2901938, w: 0.520401}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+    - name: BN_Ear_R_end
+      parentName: BN_Ear_R
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Ear_L
+      parentName: Bip01-Head
+      position: {x: -0.0019476387, y: 0.00019435618, z: 0.0013528345}
+      rotation: {x: 0.5203999, y: -0.29019263, z: -0.18594308, w: -0.7812794}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1.0000001}
+    - name: BN_Ear_L_end
+      parentName: BN_Ear_L
+      position: {x: -0, y: 0.0011999998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Eye_R_01
+      parentName: Bip01-Head
+      position: {x: -0.0011498538, y: 0.0008486564, z: -0.0007104979}
+      rotation: {x: -0.0000012102372, y: -0.00000019995001, z: 0.50406545, w: -0.8636655}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000006}
+    - name: BN_Eye_R_01_end
+      parentName: BN_Eye_R_01
+      position: {x: -0, y: 0.0011999998, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BN_Mouth
+      parentName: Bip01-Head
+      position: {x: -0.00051820755, y: 0.001101558, z: -1.7869752e-10}
+      rotation: {x: 0.00000062149036, y: 0.00000025706532, z: -0.8697461, w: 0.4934996}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: BN_Mouth_end
+      parentName: BN_Mouth
+      position: {x: -0, y: 0.0012, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-L-Thigh
+      parentName: Bip01-Spine
+      position: {x: 0.0008642086, y: 0.000078570694, z: 0.00071723}
+      rotation: {x: 0.033710122, y: -0.9994317, z: -0.0000014741435, w: -0.00000020183992}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+    - name: Bip01-L-Calf
+      parentName: Bip01-L-Thigh
+      position: {x: -0.0008836712, y: 1.3969838e-10, z: -1.2340023e-10}
+      rotation: {x: 0.00000006221323, y: -0.000000015796312, z: 0.10406197, w: 0.99457085}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Bip01-L-Foot
+      parentName: Bip01-L-Calf
+      position: {x: -0.00063599565, y: 4.6566126e-11, z: 6.635673e-11}
+      rotation: {x: 0.00000007923469, y: 0.000000041126707, z: -0.0708728, w: 0.99748534}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Bip01-L-Foot_end
+      parentName: Bip01-L-Foot
+      position: {x: -0, y: 0.0011999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-R-Thigh
+      parentName: Bip01-Spine
+      position: {x: 0.0006705172, y: -0.00007104489, z: -0.0008247561}
+      rotation: {x: 0.033710122, y: -0.9994317, z: -0.0000014741435, w: -0.00000020183992}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999964}
+    - name: Bip01-R-Calf
+      parentName: Bip01-R-Thigh
+      position: {x: -0.0008836716, y: 1.8626451e-11, z: -1.5366822e-10}
+      rotation: {x: 0.00000006022771, y: 0.000000043775238, z: 0.10406197, w: 0.99457085}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000006}
+    - name: Bip01-R-Foot
+      parentName: Bip01-R-Calf
+      position: {x: -0.0006359959, y: -1.862645e-10, z: -2.7939677e-11}
+      rotation: {x: -0.000000041786997, y: -0.00000003975669, z: -0.07087283, w: 0.99748534}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000001}
+    - name: Bip01-R-Foot_end
+      parentName: Bip01-R-Foot
+      position: {x: -0, y: 0.0011999999, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01-Tail
+      parentName: Bip01-Spine
+      position: {x: -0.00010170023, y: -0.0012577598, z: 0.000028770686}
+      rotation: {x: -0.000000053346632, y: 0.0000016111161, z: -0.5560411, w: -0.8311548}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: Bip01-Tail1
+      parentName: Bip01-Tail
+      position: {x: -0.00093898183, y: -0.00000089500446, z: 0.00000028679148}
+      rotation: {x: -0.000000003879861, y: 0.000000791956, z: -0.29182988, w: 0.95647025}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000004}
+    - name: Bip01-Tail2
+      parentName: Bip01-Tail1
+      position: {x: -0.0014330735, y: -0.00000065281057, z: 0.00000011321157}
+      rotation: {x: -0.000000037293155, y: -0.000000020978232, z: 0.0005665421, w: 0.9999999}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: Bip01-Tail3
+      parentName: Bip01-Tail2
+      position: {x: -0.0012237836, y: -0.00000073013825, z: -0.00000014781835}
+      rotation: {x: -0.00000044784775, y: -0.00000077868236, z: 0.44279754, w: 0.89662164}
+      scale: {x: 1.0000007, y: 0.99999976, z: 1}
+    - name: Bip01-Tail3_end
+      parentName: Bip01-Tail3
+      position: {x: -0, y: 0.0011999996, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mo
+      parentName: BootsCat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.70710677, z: 0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
